@@ -15,3 +15,18 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+
+# Bienvenido a la web de clases de Luis García 
+
+Esta es la wiki que uso para colgar los contenidos de las asignaturas que imparto en Ciclos Formativos
+
+
+## Grado Medio SMR ##
+  * [Sistemes Operatius Monolloc](SOM/IndiceSOM.md) 
+
+## Curso de especializacion en Inteligencia Artificialy Big Data ##
+  * [Big Data Aplicado](BDA/IndiceBDA.md) 
+  * [Sistemas Big Data](SBD/IndiceSBD.md) 
+  * [Power BI](PowerBI/IndicePowerBI.md) 
+
