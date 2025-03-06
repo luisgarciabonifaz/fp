@@ -1,1 +1,46 @@
-site_name: My Docs
+site_name: Mis Clases
+site_author: "Luis García Bonifaz"
+site_email: "l.garciabonifaz@edu.gva.es"
+site_url: https://luisgarciabonifaz.github.io/fp/
+
+theme:
+  name: material
+  #font: Merryweather Sans
+  #code: Red Hat Mono1
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: navy
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: navy
+      accent: deep orange
+
+    
+markdown_extensions:
+  - attr_list          # Adds attribute lists to generated HTML
+  - pymdownx.emoji:    # Para añadir iconos en el texto. Lista de iconos https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+ # - codehilite         # Syntax coloring for code blocks
+  - tables
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition         # Adds boxes for Notes, Warnings, etc.
+  - pymdownx.details
+  
