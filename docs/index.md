@@ -5,7 +5,7 @@
 
 <div style="text-align: right; margin-top: 20px;">
   Luis Gárcia Bonifaz<br>
-  <a href="mailto:l.garciabonifaz@edu.gva.es">j.puigcerveribanez@edu.gva.es</a>
+  <a href="mailto:l.garciabonifaz@edu.gva.es">l.garciabonifaz@edu.gva.es</a>
 </div>
 
 <div style="text-align: right; margin-top: 20px;">
