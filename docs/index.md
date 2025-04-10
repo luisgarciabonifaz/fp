@@ -1,21 +1,13 @@
 
-<div style="background-color: #ff9800; padding: 20px; text-align: center; color: white; font-size: 1.5em; border-radius: 5px;">
-  Formación Profesional
+<div style="background-color:navy; padding: 20px; text-align: center; color: white; font-size: 1.5em; border-radius: 5px;">
+  Mis módulos de Formación Profesional
 </div>
 
 <div style="text-align: right; margin-top: 20px;">
-  Luis Gárcia Bonifaz<br>
+  <b>Luis Gárcia Bonifaz</b><br>
   <a href="mailto:l.garciabonifaz@edu.gva.es">l.garciabonifaz@edu.gva.es</a>
 </div>
-
-<div style="text-align: right; margin-top: 20px;">
-  Llicència: CC BY-NC-SA 4.0<br>
-  (Atribución/Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional)
-</div>
-
-<div style="text-align: right; margin-top: 20px;">
-  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-</div>
+<br>
 
 
 # Bienvenido a la web de clases de Luis García 
@@ -37,9 +29,11 @@ Esta es la web que uso para colgar los contenidos de las asignaturas que imparto
   <figcaption>Image caption</figcaption>
 </figure>
 
-Licencia: Atribución/Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional
 
+<div style="text-align: center; margin-top: 20px;">
+  <b>Llicència: CC BY-NC-SA 4.0</b>
+</div>
 
-<figure markdown="span">
-  ![Image title](Imagenes/by-nc-sa.png){ width=20%}
-</figure>
+<div style="text-align: center; margin-top: 20px;">
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+</div>
