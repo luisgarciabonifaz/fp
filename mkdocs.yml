@@ -26,6 +26,8 @@ theme:
       primary: navy
       accent: deep orange
 
+extra_css:
+  - css/custom.css
     
 markdown_extensions:
   - attr_list          # Adds attribute lists to generated HTML
