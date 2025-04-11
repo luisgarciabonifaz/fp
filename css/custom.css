@@ -1,0 +1,63 @@
+
+/* Titulo */
+.titulo {
+    background-color: navy;
+    padding: 20px; 
+    text-align: center; 
+    color: white; 
+    font-size: 1.5em; 
+    border-radius: 10px;"
+  }
+
+/* Autor */
+.autor {
+  text-align: right;
+  margin-top: 20px;">  
+  }
+
+
+/* Bloque cyan */
+.bloque-cyan {
+    background-color: cyan;
+    padding: 10px;
+    border-radius: 10px;
+    margin:5px;
+  }
+  
+/* Bloque verde */
+.bloque-verde {
+    background-color: green;
+    padding: 10px;
+    border-radius: 10px;
+    margin:5px;
+    width:50%;
+  }
+  
+/* Bloque azul */
+.bloque-naranja {
+    background-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+    margin:5px;
+    width:50%;
+  }
+
+/* Contenedor flexible para bloques horizontales */
+.contenedor-flex {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+  }
+
+  
+/* Estilo para los títulos dentro de los bloques */
+.bloque-titulo {
+    font-weight: bold;
+    margin: 0;
+  }
+  
+/* Estilo para los enlaces dentro de los bloques */
+.bloque-enlace {
+    margin: 5px 0 0 0;
+    color: #000;
+  }
