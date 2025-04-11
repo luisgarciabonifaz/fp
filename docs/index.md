@@ -1,51 +1,35 @@
 
-<div style="background-color:navy; padding: 20px; text-align: center; color: white; font-size: 1.5em; border-radius: 5px;">
+<div class="titulo">
   Mis apuntes de Formación Profesional
 </div>
 
-<div style="text-align: right; margin-top: 20px;">
+<div class="autor">
   <b>Luis Gárcia Bonifaz</b><br>
   <a href="mailto:l.garciabonifaz@edu.gva.es">l.garciabonifaz@edu.gva.es</a>
 </div>
 <br>
 
-# Apuntes de Formación Profesional
+<!-- # Apuntes de Formación Profesional -->
+# Ciclos Formativos
+## :computer: Sistemas Microinformáticos y Redes
 
-Esta es la web que uso para colgar los contenidos de las asignaturas que imparto en Ciclos Formativos
-
-## Ciclos Formativos
-
-### Sistemas Microinformáticos y Redes
-
-<div style="background-color: cyan; padding: 10px; border-radius: 10px;">
+<div class="bloque-cyan">
   <p><strong>SOM: Sistemas Operativos Monopuesto 🚧</strong></p>
   <p>Apuntes</p>
 </div>
 
+## :material-brain: Curso Especialización Inteligencia Artificial y Big Data
 
-
-### Curso Especialización Inteligencia ArtificiaL y Big DAta
-
-<div style="display: inline">
-  <div style="background-color: orange; padding: 10px; border-radius: 10px;">
+<div class="contenedor-flex">
+  <div class="bloque-verde">
     <p><strong>BDA: Big Data Aplicado 🚧</strong></p>
     <p>Apuntes</p>
   </div>
-  <div style="background-color: green; padding: 10px; border-radius: 10px;">
+  <div class="bloque-naranja">
     <p><strong>SBD: Sistemas Big Data 🚧</strong></p>
     <p>Apuntes</p>
   </div>
 </div>
-
-
-
-## Grado Medio SMR
-  * [Sistemes Operatius Monolloc](SOM/IndiceSOM.md) 
-
-## Curso de especializacion en Inteligencia Artificialy Big Data ##
-  * [Big Data Aplicado](BDA/IndiceBDA.md) 
-  * [Sistemas Big Data](SBD/IndiceSBD.md) 
-  * [Power BI](PowerBI/IndicePowerBI.md) 
 
 <!-- **Última actualización:** {{ git_revision_date_localized }} -->
 

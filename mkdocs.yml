@@ -51,7 +51,7 @@ markdown_extensions:
 copyright: "<a href='https://creativecommons.org/licenses/by/4.0/' target='_blank'>CC BY-NC-SA 4.0 (Reconeixement - NoComercial - CompartirIgual) © Luis Garcia Bonifaz</a>."
 
 plugins:
-#  - img2fig  
+  #  - img2fig  
   - git-revision-date-localized:
       type: date  # Puedes usar "datetime" si quieres tener fecha y hora
       locale: es  # Configura el idioma (opcional, "es" para español)
