@@ -13,7 +13,7 @@
 # Ciclos Formativos
 ## :computer: Sistemas Microinformáticos y Redes
 
-<div class="bloque-entero">
+<div class="bloque-medio">
   <p><strong>SOM: Sistemas Operativos Monopuesto 🚧</strong></p>
   <a href="https://luisgarciabonifaz.github.io/SOM/">Apuntes</a>
 </div>
