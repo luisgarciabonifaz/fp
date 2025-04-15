@@ -17,30 +17,35 @@
 
 
 /* Bloque cyan */
-.bloque-cyan {
-    background-color: cyan;
+.bloque-entero {
+    /*background-color: cyan;*/
     padding: 10px;
     border-radius: 10px;
     margin:5px;
-  }
-  
+    border-style: solid;
+  } 
+
 /* Bloque verde */
-.bloque-verde {
-    background-color: green;
+.bloque-medio {
+    /*background-color: green; */
     padding: 10px;
     border-radius: 10px;
     margin:5px;
     width:50%;
+    border-style: solid;
   }
   
 /* Bloque azul */
 .bloque-naranja {
-    background-color: orange;
+    /*background-color: orange;*/
     padding: 10px;
     border-radius: 10px;
     margin:5px;
     width:50%;
+    border-style: solid;
   }
+
+
 
 /* Contenedor flexible para bloques horizontales */
 .contenedor-flex {
