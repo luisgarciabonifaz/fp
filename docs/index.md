@@ -26,17 +26,13 @@
     <p>Apuntes</p>
   </div>
   <div class="bloque-naranja">
-    <p><strong>SBD: Sistemas Big Data 🚧</strong></p>
+    <p><strong>SBD: Sistemas Big Data 🚧</strong></p>:computer:
     <p>Apuntes</p>
   </div>
 </div>
 
 <!-- **Última actualización:** {{ git_revision_date_localized }} -->
 
-<figure markdown="span">
-  ![Image title](Imagenes/LogoBigData.png){ width=50%}
-  <figcaption>Image caption</figcaption>
-</figure>
 
 
 <div style="text-align: center; margin-top: 20px;">

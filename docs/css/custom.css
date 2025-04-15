@@ -1,30 +1,3 @@
-/* Oculta barras laterales */
-.md-sidebar--primary,
-.md-sidebar--secondary {
-  display: none !important;
-}
-
-/* Expande el contenedor principal */
-.md-main {
-  flex-grow: 1 !important;
-}
-
-/* Quita márgenes internos del layout */
-.md-main__inner {
-  margin: 0 !important;
-  max-width: 100% !important;
-  display: block !important;
-}
-
-/* Fuerza el contenido a ocupar el ancho completo */
-.md-content {
-  max-width: 100% !important;
-  width: 100% !important;
-  margin: 0 !important;
-  padding: 0 1rem; /* Si quieres algo de espacio en los lados */
-}
-
-
 
 /* Titulo */
 .titulo {
@@ -33,13 +6,13 @@
     text-align: center; 
     color: white; 
     font-size: 1.5em; 
-    border-radius: 10px;"
+    border-radius: 10px;
   }
 
 /* Autor */
 .autor {
   text-align: right;
-  margin-top: 20px;">  
+  margin-top: 20px;
   }
 
 
