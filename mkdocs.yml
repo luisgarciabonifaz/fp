@@ -8,8 +8,8 @@ theme:
   #font: Merryweather Sans
   #code: Red Hat Mono1
   features:
-    - navigation.footer
-    - navigation.tabs 
+#    - navigation.footer
+#    - navigation.tabs 
 
   palette:
     # Dark Mode
