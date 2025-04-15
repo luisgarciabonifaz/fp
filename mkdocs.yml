@@ -9,7 +9,7 @@ theme:
   #code: Red Hat Mono1
   features:
     - navigation.footer
-#    - navigation.tabs 
+    - navigation.tabs 
 
   palette:
     # Dark Mode
