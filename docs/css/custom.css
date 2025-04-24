@@ -1,30 +1,13 @@
 
-/* Oculta barras laterales */
-.md-sidebar--primary,
-.md-sidebar--secondary {
+/* Ocultar el TOC completamente */
+.md-sidebar {
   display: none !important;
 }
 
-/* Expande el contenedor principal */
-.md-main {
-  flex-grow: 1 !important;
+/* Ocultar el botón de TOC en móviles */
+.md-nav__source {
+  display: none;
 }
-
-/* Quita márgenes internos del layout */
-.md-main__inner {
-  margin: 0 !important;
-  max-width: 100% !important;
-  display: block !important;
-}
-
-/* Fuerza el contenido a ocupar el ancho completo */
-.md-content {
-  max-width: 100% !important;
-  width: 100% !important;
-  margin: 0 !important;
-  padding: 0 1rem; /* Si quieres algo de espacio en los lados */
-}
-
 
 /* Titulo */
 .titulo {
@@ -43,7 +26,7 @@
   }
 
 
-/* Bloque cyan */
+/* Bloque entero */
 .bloque-entero {
     /*background-color: cyan;*/
     padding: 10px;
@@ -52,7 +35,7 @@
     border-style: solid;
   } 
 
-/* Bloque verde */
+/* Bloque medio */
 .bloque-medio {
     /*background-color: green; */
     padding: 10px;
@@ -62,17 +45,6 @@
     border-style: solid;
   }
   
-/* Bloque azul */
-.bloque-naranja {
-    /*background-color: orange;*/
-    padding: 10px;
-    border-radius: 10px;
-    margin:5px;
-    width:50%;
-  }
-
-
-
 /* Contenedor flexible para bloques horizontales */
 .contenedor-flex {
     display: flex;
@@ -81,14 +53,3 @@
   }
 
   
-/* Estilo para los títulos dentro de los bloques */
-.bloque-titulo {
-    font-weight: bold;
-    margin: 0;
-  }
-  
-/* Estilo para los enlaces dentro de los bloques */
-.bloque-enlace {
-    margin: 5px 0 0 0;
-    color: #000;
-  }
