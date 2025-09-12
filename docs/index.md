@@ -10,7 +10,7 @@
 <br>
 
 <!-- # Apuntes de Formación Profesional -->
-# Ciclos Formativos
+
 ## :computer: Sistemas Microinformáticos y Redes
 
 <div class="contenedor-flex">
