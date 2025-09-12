@@ -5,11 +5,6 @@ site_url: https://luisgarciabonifaz.github.io/fp/
 
 theme:
   name: material
-  #font: Merryweather Sans
-  #code: Red Hat Mono1
-  features:
-    - navigation.footer
-    - navigation.tabs 
 
   palette:
     # Dark Mode
@@ -27,8 +22,7 @@ theme:
         name: Light mode
       primary: navy
       accent: deep orange
-  navigation:
-    side: false # Desactiva la barra de navegación lateral
+  
 
 extra_css:
   - css/custom.css
@@ -59,6 +53,4 @@ plugins:
   - git-revision-date-localized:
       type: date  # Puedes usar "datetime" si quieres tener fecha y hora
       locale: es  # Configura el idioma (opcional, "es" para español)
-  - awesome-pages:
-      collapse_single_pages: true # Opcional: Colapsa las secciones con una sola página
 
