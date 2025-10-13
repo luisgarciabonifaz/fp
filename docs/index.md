@@ -1,4 +1,3 @@
-
 <div class="titulo">
   Mis apuntes de Formación Profesional
 </div>
@@ -11,25 +10,22 @@
 
 <!-- # Apuntes de Formación Profesional -->
 
+/// html | div[style='display: inline-block;width:50%;']
 ## :computer: Sistemas Microinformáticos y Redes
+///
+
+/// html | div[style='display: inline-block;width:48%;']
+## :material-brain: Curso Especialización IA y Big Data
+///
 
 <div class="contenedor-flex">
   <div class="bloque-medio">
     <p><strong>SOM: Sistemas Operativos Monopuesto 🚧</strong></p>
     <a href="https://luisgarciabonifaz.github.io/SOM/">Apuntes</a>
   </div>
-</div>
-
-## :material-brain: Curso Especialización Inteligencia Artificial y Big Data
-
-<div class="contenedor-flex">
   <div class="bloque-medio">
     <p><strong>BDA: Big Data Aplicado 🚧</strong></p>
     <a href="https://luisgarciabonifaz.github.io/BDA/">Apuntes</a>
-  </div>
-  <div class="bloque-medio">
-    <p><strong>SBD: Sistemas Big Data 🚧</strong></p>
-    <a href="https://luisgarciabonifaz.github.io/SBD/">Apuntes</a>
   </div>
 </div>
 

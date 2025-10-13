@@ -5,7 +5,8 @@ site_url: https://luisgarciabonifaz.github.io/fp/
 
 theme:
   name: material
-
+  features:
+    - navigation.tracking
   palette:
     # Dark Mode
     - scheme: slate
@@ -24,9 +25,12 @@ theme:
       accent: deep orange
   
 
+nav:
+  - ' ': 'index.md'
+  
 extra_css:
-  - css/custom.css
-    
+
+  - css/custom.css    
 markdown_extensions:
   - attr_list          # Adds attribute lists to generated HTML
   - pymdownx.emoji:    # Para añadir iconos en el texto. Lista de iconos https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
@@ -45,6 +49,7 @@ markdown_extensions:
       alternate_style: true
   - admonition         # Adds boxes for Notes, Warnings, etc.
   - pymdownx.details
+  - pymdownx.blocks.html
 
 copyright: "<a href='https://creativecommons.org/licenses/by/4.0/' target='_blank'>CC BY-NC-SA 4.0 (Reconeixement - NoComercial - CompartirIgual) © Luis Garcia Bonifaz</a>."
 
@@ -54,3 +59,6 @@ plugins:
       type: date  # Puedes usar "datetime" si quieres tener fecha y hora
       locale: es  # Configura el idioma (opcional, "es" para español)
 
+extra:
+  homepage:
+    hide: true
