@@ -29,6 +29,13 @@
   </div>
 </div>
 
+<div class="contenedor-flex">
+  <div class="bloque-medio">
+    <p><strong>Curso Báscio Microsodt Teams 🚧</strong></p>
+    <a href="https://luisgarciabonifaz.github.io/Curso_Teams/">Apuntes</a>
+  </div>
+</div>
+
 <!-- **Última actualización:** {{ git_revision_date_localized }} -->
 
 
