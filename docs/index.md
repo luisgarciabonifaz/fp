@@ -29,9 +29,13 @@
   </div>
 </div>
 
+/// html | div[style='display: inline-block;width:48%;']
+## 💊 Pildoras
+///
+
 <div class="contenedor-flex">
   <div class="bloque-medio">
-    <p><strong>Curso Báscio Microsodt Teams 🚧</strong></p>
+    <p><strong>Microsoft Teams en @edu.gva.es 🚧</strong></p>
     <a href="https://luisgarciabonifaz.github.io/Curso_Teams/">Apuntes</a>
   </div>
 </div>
