@@ -38,6 +38,10 @@
     <p><strong>Microsoft Teams en @edu.gva.es 🚧</strong></p>
     <a href="https://luisgarciabonifaz.github.io/Curso_Teams/">Apuntes</a>
   </div>
+  <div class="bloque-medio">
+    <p><strong>Power BI 🚧</strong></p>
+    <a href="https://luisgarciabonifaz.github.io/Curso_PowerBI/">Apuntes</a>
+  </div>
 </div>
 
 <!-- **Última actualización:** {{ git_revision_date_localized }} -->
