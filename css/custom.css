@@ -1,0 +1,56 @@
+
+/* Ocultar el TOC completamente */
+.md-sidebar {
+  display: none !important;
+}
+
+/* Ocultar el botón de TOC en móviles */
+.md-nav__source {
+  display: none;
+}
+
+/* Titulo */
+.titulo {
+    background-color: navy;
+    padding: 20px; 
+    text-align: center; 
+    color: white; 
+    font-size: 1.5em; 
+    border-radius: 10px;
+  }
+
+/* Autor */
+.autor {
+  text-align: right;
+  margin-top: 20px;
+  }
+
+
+/* Bloque entero */
+.bloque-entero {
+    /*background-color: cyan;*/
+    padding: 10px;
+    border-radius: 10px;
+    /*margin:5px;*/
+    border-style: solid;
+  } 
+
+/* Bloque medio */
+.bloque-medio {
+    /*background-color: green; */
+    padding: 10px;
+    border-radius: 10px;
+    /*margin:5px;*/
+    width:50%;
+    border-style: solid;
+  }
+  
+/* Contenedor flexible para bloques horizontales */
+.contenedor-flex {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+  }
+
+
+  
