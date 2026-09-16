@@ -25,7 +25,7 @@
   </div>
   <div class="bloque-medio">
     <p><strong>BDA: Big Data Aplicado 🚧</strong></p>
-    <a href="https://luisgarciabonifaz.github.io/BDA/">Apuntes</a>
+    <a href="https://luisgarciabonifaz.github.io/BigData/">Apuntes</a>
   </div>
 </div>
 
